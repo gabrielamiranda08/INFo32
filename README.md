@@ -1,5 +1,4 @@
-# INFo32
+# INFO32
 lab01
 Gabriela Miranda 
-17
-BASQ
+exercícios
